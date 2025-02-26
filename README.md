@@ -4,16 +4,29 @@
   - 👼 Birthday: 03/09/1999.
   - 🎓 A university student, pursuing an associate degree in <b>system analysis and development.</b><br>
   - 🚀 <b>Aspiring Full Stack Developer.</b><br>
-  - 🔍 Passionate about <b>Microservices, AI, and Data.</b><br>
+  - 🔍 Passionate about **Microservices, AI,** and **Data Analisys**.<br>
   - 🎯 Goal: Get a <b>internship/entry level job position</b> as software developer!
   - 🏡 Living in São Paulo, Brazil.
 
+## 
+
+<h3 align="left"><b>📫 Let's connect!</b></h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/diego-nunes-91270114a/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn" >
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:diego.s.nunes213@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" alt="Gmail">
+  </a>
+</p>
+
 ## Hobbies:
-  - 📚 Reading <b>Manhwa, Sci-fi, Fantasy</b> but also <b>self-development, finances and business</b><br>
+  - 📚 Reading **Manhwa, Sci-fi, Fantasy self-development, finances** and **business**.<br>
   - ⚙️ Bringing some code project ideas to life.<br>
-  - 🏋️‍♂️ Gym & kickboxing<br>
+  - 🏋️‍♂️ Gym & kickboxing.<br>
   - 🎥 Watching movies & series.<br>
-  - ☕ Enjoying a good coffee! <b>(with sugar, of course!!)</b>
+  - ☕ Enjoying a good coffee! <b>(with sugar, of course!!).</b>
 
 ## 🛠️ Technologies & Tools:
 <p align="center">
@@ -45,16 +58,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoS-Nunes&theme=react" alt="Activity Graph"/>
 </p>
 
-
 Feel free to check out my projects and reach out.
-
-<h3 align="left"><b>📫 Let's connect!</b></h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/diego-nunes-91270114a/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn" >
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:diego.s.nunes213@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" alt="Gmail">
-  </a>
-</p>
