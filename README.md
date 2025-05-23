@@ -1,11 +1,11 @@
 <h1 align="center"><b>👋 Hello, I'm Diego!</b></h1>
 
 ## About Me:
-  - 👼 Birthday: 03/09/1999.
+  - 👼 Birthday: September 3, 1999.
   - 🎓 I'm an university student, pursuing an associate degree in <b>system analysis and development.</b><br>
   - 🚀 <b>Aspiring Full Stack Developer.</b><br>
   - 🔍 Passionate about **Microservices, AI,** and **Data analysis**.<br>
-  - 🎯 Goal: Get an <b>internship/entry level job position</b> as software developer!
+  - 🎯 Goal: Get an <b>internship/entry level job position</b> as software developer, or in data analysis!
   - 🏡 Living in São Paulo, Brazil.
 
 ## 
@@ -22,8 +22,8 @@
 </p>
 
 ## Hobbies:
-  - 📚 Reading **Manhwa, Sci-fi, Fantasy self-development, finances** and **business**.<br>
   - ⚙️ Bringing some code project ideas to life.<br>
+  - 📚 Reading **Manhwa, Sci-fi, Fantasy, self-development, finances** and **business**.<br>
   - 🏋️‍♂️ Gym & kickboxing.<br>
   - 🎥 Watching movies & series.<br>
   - ☕ Enjoying a good coffee! <b>(with sugar, of course!!).</b>
