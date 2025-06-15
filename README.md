@@ -4,7 +4,7 @@
   - 👼 Birthday: September 3, 1999.
   - 🎓 I'm an university student, pursuing an associate degree in <b>system analysis and development.</b><br>
   - 🚀 <b>Aspiring Full Stack Developer.</b><br>
-  - 🔍 Passionate about **Microservices, AI,** and **Data analysis**.<br>
+  - 🔍 Passionate about **Software Development, Automation** and **Data analysis**.<br>
   - 🎯 Goal: Get an <b>internship/entry level job position</b> as software developer, or in data analysis!
   - 🏡 Living in São Paulo, Brazil.
 
